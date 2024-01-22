@@ -1,0 +1,15 @@
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/bin/Debug/net8.0/Nerv.Models.deps.json
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/bin/Debug/net8.0/Nerv.Models.runtimeconfig.json
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/bin/Debug/net8.0/Nerv.Models.dll
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/bin/Debug/net8.0/Nerv.Models.pdb
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.csproj.AssemblyReference.cache
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.AssemblyInfoInputs.cache
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.AssemblyInfo.cs
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.csproj.CoreCompileInputs.cache
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.dll
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/refint/Nerv.Models.dll
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.pdb
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.genruntimeconfig.cache
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/ref/Nerv.Models.dll
+/Users/anil/Documents/Development/NervWeb/Nerv.Models/obj/Debug/net8.0/Nerv.Models.sourcelink.json
