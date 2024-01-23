@@ -13,8 +13,40 @@
       "PackagePath": "staticwebassets/favicon.ico"
     },
     {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/01cfe2c4-c591-44a9-9650-ceb40ba4c630.jpg",
+      "PackagePath": "staticwebassets/images/product/01cfe2c4-c591-44a9-9650-ceb40ba4c630.jpg"
+    },
+    {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/1dbcb0ca-0117-4adb-ba33-9acc0ebe901c.jpg",
+      "PackagePath": "staticwebassets/images/product/1dbcb0ca-0117-4adb-ba33-9acc0ebe901c.jpg"
+    },
+    {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/2457233a-f46c-4f38-8b26-b5b997e4d593.jpg",
+      "PackagePath": "staticwebassets/images/product/2457233a-f46c-4f38-8b26-b5b997e4d593.jpg"
+    },
+    {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/40839132-cf91-4893-80fe-073c9a2705a5.jpg",
+      "PackagePath": "staticwebassets/images/product/40839132-cf91-4893-80fe-073c9a2705a5.jpg"
+    },
+    {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/43034ced-1b83-459a-a1a9-e7e70b31f461.jpg",
+      "PackagePath": "staticwebassets/images/product/43034ced-1b83-459a-a1a9-e7e70b31f461.jpg"
+    },
+    {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/97faf35b-4ff9-4122-ab7f-260c5bc165d6.jpeg",
+      "PackagePath": "staticwebassets/images/product/97faf35b-4ff9-4122-ab7f-260c5bc165d6.jpeg"
+    },
+    {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/d54ae5e0-d69c-4da3-842e-514ed3674fd0.jpg",
+      "PackagePath": "staticwebassets/images/product/d54ae5e0-d69c-4da3-842e-514ed3674fd0.jpg"
+    },
+    {
       "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/images/product/dbb069ec-3c20-4845-a368-bfd4954ee581.jpg",
       "PackagePath": "staticwebassets/images/product/dbb069ec-3c20-4845-a368-bfd4954ee581.jpg"
+    },
+    {
+      "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/js/product.js",
+      "PackagePath": "staticwebassets/js/product.js"
     },
     {
       "Id": "/Users/anil/Documents/Development/NervWeb/NervWeb/wwwroot/js/site.js",

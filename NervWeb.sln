@@ -5,8 +5,6 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NervWeb", "NervWeb\NervWeb.csproj", "{6D1A47B3-87DA-412C-9A25-0FDF688B6F3E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NervWebApp_Temp", "NervWebApp_Temp\NervWebApp_Temp.csproj", "{5250C22C-184C-400F-89BA-DF31DD712CF8}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerv.DataAccess", "Nerv.DataAccess\Nerv.DataAccess.csproj", "{29F95871-7881-43C6-8942-2CA6296B32BA}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nerv.Models", "Nerv.Models\Nerv.Models.csproj", "{C7CAD709-F99A-4287-87A3-8C05835DD62E}"

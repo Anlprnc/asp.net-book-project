@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NervWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48c8e199704f5cc864bf2dca34000a00980e139b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11011dfcfdb7588abaa2500ed5f32b40ca71e3e4")]
 [assembly: System.Reflection.AssemblyProductAttribute("NervWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NervWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
