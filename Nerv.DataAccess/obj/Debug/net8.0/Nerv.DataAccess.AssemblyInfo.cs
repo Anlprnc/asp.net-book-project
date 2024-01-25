@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nerv.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11011dfcfdb7588abaa2500ed5f32b40ca71e3e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f8702da28fe33efdd28cc200aaebe06bc01bd96")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nerv.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nerv.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

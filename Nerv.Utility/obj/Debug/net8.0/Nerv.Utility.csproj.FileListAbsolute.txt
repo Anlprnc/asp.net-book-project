@@ -11,3 +11,5 @@
 /Users/anil/Documents/Development/NervWeb/Nerv.Utility/obj/Debug/net8.0/ref/Nerv.Utility.dll
 /Users/anil/Documents/Development/NervWeb/Nerv.Utility/obj/Debug/net8.0/Nerv.Utility.sourcelink.json
 /Users/anil/Documents/Development/NervWeb/Nerv.Utility/obj/Debug/net8.0/Nerv.Utility.csproj.AssemblyReference.cache
+/Users/anil/Documents/Development/NervWeb/Nerv.Utility/bin/Debug/net8.0/Nerv.Utility.runtimeconfig.json
+/Users/anil/Documents/Development/NervWeb/Nerv.Utility/obj/Debug/net8.0/Nerv.Utility.genruntimeconfig.cache
